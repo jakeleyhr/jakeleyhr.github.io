@@ -53,7 +53,6 @@ social-network-links:
   email: "jake.leyhr@ebc.uu.se"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: deanattali
-  github: jakeleyhr
   twitter: JakeLeyhr
 #  patreon: DeanAttali
 #  youtube: "@daattali"
@@ -75,6 +74,7 @@ social-network-links:
 #  bluesky: yourname
   ORCID: 0000-0003-1815-7818
   google-scholar: gzb9BW4AAAAJ
+  github: jakeleyhr
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "jakeleyhr.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
