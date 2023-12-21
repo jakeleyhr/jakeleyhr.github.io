@@ -24,7 +24,7 @@ Gdf5 in the Development of the Zebrafish Fin Endoskeleton. [*Developmental Dynam
 Waldmann, L.\*, **Leyhr, J.**\*, Zhang, H., Öhman-Mägi, C., Allalou, A., Haitina, T. (2021). The Broad
 Role of Nkx3.2 in the Development of the Zebrafish Axial Skeleton. [*PLoS ONE*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255953)
 
-**2019**
+**2018**
 
 Janssen, R., Andersson, E., Betnér, E., Bijl, S., Fowler, W., Höök, L., **Leyhr, J.**, Landström, E.,
 Mannelqvist, A., Panara, V., Smith, K., Tiemann, S. (2018). Embryonic expression patterns and
