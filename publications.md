@@ -6,7 +6,7 @@ title: Publications
 
 **2023**
 
-**Leyhr K**, Haitina T, Bird NC. (preprint) Hidden in plain sight: does the first intercostal ligament help to
+**Leyhr J**, Haitina T, Bird NC. (preprint) Hidden in plain sight: does the first intercostal ligament help to
 stabilize the Weberian apparatus? [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.11.20.567829v1)
 
 **Leyhr J**, Sanchez S, Dollman KN, Tafforeau P, Haitina T. (2023). Enhanced contrast
