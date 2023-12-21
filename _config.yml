@@ -20,7 +20,7 @@ author: Jake Leyhr
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Research: "research"
   Publications: "publications"
   CV: "cv"
