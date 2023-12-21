@@ -1,13 +1,9 @@
 ---
 layout: page
 title: Research
-subtitle: The early evolution of vertebrates
 ---
 
-Text 1
+The early evolution of vertebrates
 
 ---
-subtitle: Musculoskeletal development
----
-
-Text 2
+Musculoskeletal development
