@@ -20,12 +20,12 @@ body {
 .image-list li {
   display: flex;
   align-items: center;
-  margin-bottom: 20px; /* Adjust as needed */
+  margin-bottom: 15px; /* Adjust as needed */
 }
 
 .image-list img {
-  width: 200px; /* Adjust the image width as desired */
-  margin-right: 20px; /* Space between image and text */
+  width: 205px; /* Adjust the image width as desired */
+  margin-right: 15px; /* Space between image and text */
 }
 
 .image-list .text {
