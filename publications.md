@@ -19,8 +19,7 @@ zebrafish mutants. [*Frontiers in Endocrinology*](https://www.frontiersin.org/ar
 cis-regulatory element drives early expression of Nkx3.2 in the gnathostome primary jaw joint.
 [*eLife*](https://elifesciences.org/articles/75749)
 
-<img src="assets/img/DD_Cover.jpg" alt="Developmental Dynamics Cover" style="float: left; width: 110px; height: 140px" />
-![image](assets/img/DD_Cover.jpg =100x) Waldmann L\*, **Leyhr J**\*, Zhang H, Allalou A, Öhman-Mägi C, Haitina T. (2022). The Role of Gdf5 in the Development of the Zebrafish Fin Endoskeleton. [*Developmental Dynamics*](https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/dvdy.399)
+Waldmann L\*, **Leyhr J**\*, Zhang H, Allalou A, Öhman-Mägi C, Haitina T. (2022). The Role of Gdf5 in the Development of the Zebrafish Fin Endoskeleton. [*Developmental Dynamics*](https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/dvdy.399)
 
 **2021**
 
@@ -60,19 +59,22 @@ segmentation and gonadogenesis. [BMC Evolutionary Biology](https://bmcecolevol.b
 </style>
 
 <ul class="image-list">
-  <li>
+    <li>
     <img src="assets/img/DD_Cover.jpg" alt="Image 1" />
     <div class="text">
+      <p><strong>Leyhr J</strong>*, Waldmann L*, Filipek-Górniok B, Zhang H, Allalou A, Haitina T. (2022). A novel
+cis-regulatory element drives early expression of Nkx3.2 in the gnathostome primary jaw joint. <a href="https://elifesciences.org/articles/75749"><i>eLife</i></a> 
+[*eLife*](https://elifesciences.org/articles/75749)</p>
+    </div>
+  </li>
+  <li>
+    <img src="assets/img/DD_Cover.jpg" alt="Developmental Dynamics Cover" />
+    <div class="text">
       <p>
-        Waldmann L*, <strong>Leyhr J</strong>*, Zhang H, Allalou A, Öhman-Mägi C, Haitina T. (2022). The Role of Gdf5 in the Development of the Zebrafish Fin Endoskeleton. <a href="[https://example.com](https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/dvdy.399)"><i>Developmental Dynamics</i></a> 
+        Waldmann L*, <strong>Leyhr J</strong>*, Zhang H, Allalou A, Öhman-Mägi C, Haitina T. (2022). The Role of Gdf5 in the Development of the Zebrafish Fin Endoskeleton. <a href=https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/dvdy.399"><i>Developmental Dynamics</i></a> 
       </p>
     </div>
   </li>
-  <li>
-    <img src="assets/img/cover.png" alt="Image 2" />
-    <div class="text">
-      <p>Text vertically aligned with Image 2</p>
-    </div>
-  </li>
+
   <!-- Add more list items as needed -->
 </ul>
