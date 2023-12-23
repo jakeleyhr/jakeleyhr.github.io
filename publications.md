@@ -25,7 +25,7 @@ body {
 .image-list img {
   width: 205px; /* Adjust the image width as desired */
   margin-right: 15px; /* Space between image and text */
-  margin-left: 5px; /* Space between image and text left */
+  margin-left: 10px; /* Space between image and text left */
 }
 
 .image-list .text {
