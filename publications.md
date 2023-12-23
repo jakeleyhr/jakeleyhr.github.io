@@ -34,3 +34,57 @@ Mannelqvist A, Panara V, Smith K, Tiemann S. (2018). Embryonic expression patter
 phylogenetic analysis of panarthropod sox genes: Insight into nervous system development,
 segmentation and gonadogenesis. [BMC Evolutionary Biology](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-018-1196-z)
 
+
+<ul class="image-list">
+  <li>
+    <img src="assets/img/DD_Cover.jpg" alt="Image 1" />
+    <div class="text">
+      <p>Text vertically aligned with Image 1</p>
+    </div>
+  </li>
+  <li>
+    <img src="assets/img/cover.png" alt="Image 2" />
+    <div class="text">
+      <p>Text vertically aligned with Image 2</p>
+    </div>
+  </li>
+  <!-- Add more list items as needed -->
+</ul>
+
+<style>
+/* Your CSS styles here */
+.image-list {
+  list-style: none;
+}
+
+.image-list li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px; /* Adjust as needed */
+}
+
+.image-list img {
+  width: 100px; /* Adjust the image width as desired */
+  margin-right: 20px; /* Space between image and text */
+}
+
+.image-list .text {
+  flex: 1;
+}
+</style>
+
+<ul class="image-list">
+  <li>
+    <img src="assets/img/image1.jpg" alt="Image 1" />
+    <div class="text">
+      <p>Text vertically aligned with Image 1</p>
+    </div>
+  </li>
+  <li>
+    <img src="assets/img/image2.jpg" alt="Image 2" />
+    <div class="text">
+      <p>Text vertically aligned with Image 2</p>
+    </div>
+  </li>
+  <!-- Add more list items as needed -->
+</ul>
