@@ -24,7 +24,7 @@ body {
 }
 
 .image-list img {
-  width: 150px; /* Adjust the image width as desired */
+  width: 200px; /* Adjust the image width as desired */
   margin-right: 20px; /* Space between image and text */
 }
 
@@ -34,7 +34,7 @@ body {
 </style>
 
 <ul class="image-list">
-    <h3>2023</h3>
+<h3 style="text-align: center;">2023</h3>
       <li>
     <img src="../assets/img/Weberian GA.png" alt="Weberian Graphic Abstract" />
     <div class="text">
@@ -53,7 +53,7 @@ body {
   </li>
   
   
-  <h3>2022</h3>
+<h3 style="text-align: center;">2022</h3>
     <li>
     <img src="../assets/img/DD_Cover.jpg" alt="Image 1" />
     <div class="text">
@@ -72,7 +72,7 @@ body {
   </li>
   
   
-  <h3>2021</h3>
+<h3 style="text-align: center;">2021</h3>
     <li>
     <img src="../assets/img/crepe.jpg" alt="Developmental Dynamics Cover" />
     <div class="text">
@@ -83,7 +83,7 @@ body {
   </li>
   
   
-  <h3>2018</h3>
+<h3 style="text-align: center;">2018</h3>
     <li>
     <img src="../assets/img/path.jpg" alt="Developmental Dynamics Cover" />
     <div class="text">
