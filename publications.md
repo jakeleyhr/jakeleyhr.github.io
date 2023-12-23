@@ -9,7 +9,7 @@ title: Publications
 **Leyhr J**, Haitina T, Bird NC. (preprint) Hidden in plain sight: does the first intercostal ligament help to
 stabilize the Weberian apparatus? [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.11.20.567829v1)
 
-**Leyhr J**, Sanchez S, Dollman KN, Tafforeau P, Haitina T. (2023). Enhanced contrast
+Leyhr J, Sanchez S, Dollman KN, Tafforeau P, Haitina T. (2023). Enhanced contrast
 synchrotron X-ray microtomography for describing skeleton-associated soft tissue defects in
 zebrafish mutants. [*Frontiers in Endocrinology*](https://www.frontiersin.org/articles/10.3389/fendo.2023.1108916/full)
 
@@ -72,7 +72,7 @@ segmentation and gonadogenesis. [BMC Evolutionary Biology](https://bmcecolevol.b
     <img src="../assets/img/DD_Cover.jpg" alt="Image 1" />
     <div class="text">
       <p>
-        <strong>Leyhr J</strong>strong>, Sanchez S, Dollman KN, Tafforeau P, Haitina T. (2023). Enhanced contrast synchrotron X-ray microtomography for describing skeleton-associated soft tissue defects in zebrafish mutants <a href="https://www.frontiersin.org/articles/10.3389/fendo.2023.1108916/full"><i>Frontiers in Endocrinology</i></a> 
+        <strong>Leyhr J</strong>, Sanchez S, Dollman KN, Tafforeau P, Haitina T. (2023). Enhanced contrast synchrotron X-ray microtomography for describing skeleton-associated soft tissue defects in zebrafish mutants <a href="https://www.frontiersin.org/articles/10.3389/fendo.2023.1108916/full"><i>Frontiers in Endocrinology</i></a> 
       </p>
     </div>
   </li>
