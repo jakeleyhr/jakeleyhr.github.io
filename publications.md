@@ -35,21 +35,7 @@ phylogenetic analysis of panarthropod sox genes: Insight into nervous system dev
 segmentation and gonadogenesis. [BMC Evolutionary Biology](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-018-1196-z)
 
 
-<ul class="image-list">
-  <li>
-    <img src="assets/img/DD_Cover.jpg" alt="Image 1" />
-    <div class="text">
-      <p>Text vertically aligned with Image 1</p>
-    </div>
-  </li>
-  <li>
-    <img src="assets/img/cover.png" alt="Image 2" />
-    <div class="text">
-      <p>Text vertically aligned with Image 2</p>
-    </div>
-  </li>
-  <!-- Add more list items as needed -->
-</ul>
+
 
 <style>
 /* Your CSS styles here */
@@ -75,13 +61,13 @@ segmentation and gonadogenesis. [BMC Evolutionary Biology](https://bmcecolevol.b
 
 <ul class="image-list">
   <li>
-    <img src="assets/img/image1.jpg" alt="Image 1" />
+    <img src="assets/img/DD_Cover.jpg" alt="Image 1" />
     <div class="text">
       <p>Text vertically aligned with Image 1</p>
     </div>
   </li>
   <li>
-    <img src="assets/img/image2.jpg" alt="Image 2" />
+    <img src="assets/img/cover.png" alt="Image 2" />
     <div class="text">
       <p>Text vertically aligned with Image 2</p>
     </div>
