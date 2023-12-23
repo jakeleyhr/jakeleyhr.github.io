@@ -37,20 +37,20 @@ body {
 <ul class="image-list">
 <h3 style="text-align: center;">2023</h3>
       <li>
-    <img src="../assets/img/Weberian GA.png" alt="Weberian Graphic Abstract" />
     <div class="text">
       <p>
         <strong>Leyhr J</strong>, Haitina T, Bird NC. (preprint) Hidden in plain sight: does the first intercostal ligament help to stabilize the Weberian apparatus? <a href="https://www.biorxiv.org/content/10.1101/2023.11.20.567829v1"><i>bioRxiv</i></a> 
       </p>
     </div>
+   <img src="../assets/img/Weberian GA.png" alt="Weberian Graphic Abstract" />
   </li>
     <li>
-    <img src="../assets/img/DICEpanels.jpg" alt="DICE SRµCT panels" />
     <div class="text">
       <p>
         <strong>Leyhr J</strong>, Sanchez S, Dollman KN, Tafforeau P, Haitina T. (2023). Enhanced contrast synchrotron X-ray microtomography for describing skeleton-associated soft tissue defects in zebrafish mutants <a href="https://www.frontiersin.org/articles/10.3389/fendo.2023.1108916/full"><i>Frontiers in Endocrinology</i></a> 
       </p>
     </div>
+    <img src="../assets/img/DICEpanels.jpg" alt="DICE SRµCT panels" />
   </li>
   
   
@@ -77,7 +77,7 @@ body {
     <li>
     <div class="text">
       <p>
-        Waldmann L, <strong>Leyhr J</strong>*, Zhang H, Öhman-Mägi C, Allalou A, Haitina T. (2021). The Broad Role of Nkx3.2 in the Development of the Zebrafish Axial Skeleton. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255953"><i>PLoS ONE</i></a> 
+        Waldmann L*, <strong>Leyhr J</strong>*, Zhang H, Öhman-Mägi C, Allalou A, Haitina T. (2021). The Broad Role of Nkx3.2 in the Development of the Zebrafish Axial Skeleton. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255953"><i>PLoS ONE</i></a> 
       </p>
     </div>
     <img src="../assets/img/Waldmann2021.png" alt="Developmental Dynamics Cover" />
