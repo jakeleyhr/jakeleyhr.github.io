@@ -2,7 +2,10 @@
 layout: page
 title: Publications
 ---
-(* indicates equal contribution)
+body {
+  margin: 0;
+  padding: 0;
+}
 
 <style>
 /* Your CSS styles here */
@@ -51,8 +54,7 @@ title: Publications
     <img src="../assets/img/DD_Cover.jpg" alt="Image 1" />
     <div class="text">
       <p>
-        <strong>Leyhr J</strong>*, Waldmann L*, Filipek-Górniok B, Zhang H, Allalou A, Haitina T. (2022). A novel
-cis-regulatory element drives early expression of Nkx3.2 in the gnathostome primary jaw joint. <a href="https://elifesciences.org/articles/75749"><i>eLife</i></a> 
+        <strong>Leyhr J</strong>*, Waldmann L*, Filipek-Górniok B, Zhang H, Allalou A, Haitina T. (2022). A novel cis-regulatory element drives early expression of Nkx3.2 in the gnathostome primary jaw joint. <a href="https://elifesciences.org/articles/75749"><i>eLife</i></a> 
       </p>
     </div>
   </li>
@@ -88,3 +90,5 @@ cis-regulatory element drives early expression of Nkx3.2 in the gnathostome prim
   </li>
 
 </ul>
+
+(* indicates equal contribution)
