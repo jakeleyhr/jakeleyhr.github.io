@@ -59,7 +59,7 @@ segmentation and gonadogenesis. [BMC Evolutionary Biology](https://bmcecolevol.b
 </style>
 
 <ul class="image-list">
-  <h2>2021</h2>
+  <h3>2021</h3>
     <li>
     <img src="assets/img/DD_Cover.jpg" alt="Image 1" />
     <div class="text">
@@ -77,6 +77,26 @@ cis-regulatory element drives early expression of Nkx3.2 in the gnathostome prim
       </p>
     </div>
   </li>
+    <h3>2021</h3>
+    <li>
+    <img src="assets/img/DD_Cover.jpg" alt="Developmental Dynamics Cover" />
+    <div class="text">
+      <p>
+        Waldmann L*, <strong>Leyhr J</strong>*, Zhang H, Öhman-Mägi C, Allalou A, Haitina T. (2021). The Broad Role of Nkx3.2 in the Development of the Zebrafish Axial Skeleton. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255953"><i>PLoS ONE</i></a> 
+      </p>
+    </div>
+  </li>
+      <h3>2018</h3>
+    <li>
+    <img src="assets/img/DD_Cover.jpg" alt="Developmental Dynamics Cover" />
+    <div class="text">
+      <p>
+        Janssen R, Andersson E, Betnér E, Bijl S, Fowler W, Höök L, <strong>Leyhr J</strong>, Landström E, Mannelqvist A, Panara V, Smith K, Tiemann S. (2018). Embryonic expression patterns and phylogenetic analysis of panarthropod sox genes: Insight into nervous system development,segmentation and gonadogenesis. <a href="https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-018-1196-z"><i>BMC Evolutionary Biology</i></a> 
+      </p>
+    </div>
+  </li>
+
+  
 
   <!-- Add more list items as needed -->
 </ul>
