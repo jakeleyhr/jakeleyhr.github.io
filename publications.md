@@ -2,15 +2,19 @@
 layout: page
 title: Publications
 ---
+
+
+<style>
+/* Your CSS styles here */
 body {
   margin: 0;
   padding: 0;
 }
 
-<style>
-/* Your CSS styles here */
 .image-list {
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .image-list li {
