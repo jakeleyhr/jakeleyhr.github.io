@@ -61,7 +61,7 @@ segmentation and gonadogenesis. [BMC Evolutionary Biology](https://bmcecolevol.b
 <ul class="image-list">
     <h3>2023</h3>
       <li>
-    <img src="../assets/img/DD_Cover.jpg" alt="Image 1" />
+    <img src="../assets/img/Weberian GA.png" alt="Weberian Graphic Abstract" />
     <div class="text">
       <p>
         <strong>Leyhr J</strong>, Haitina T, Bird NC. (preprint) Hidden in plain sight: does the first intercostal ligament help to stabilize the Weberian apparatus? <a href="https://www.biorxiv.org/content/10.1101/2023.11.20.567829v1"><i>bioRxiv</i></a> 
