@@ -64,8 +64,7 @@ segmentation and gonadogenesis. [BMC Evolutionary Biology](https://bmcecolevol.b
     <img src="assets/img/DD_Cover.jpg" alt="Image 1" />
     <div class="text">
       <p>
-        Waldmann L*, <strong>Leyhr J</strong>*, Zhang H, Allalou A, Öhman-Mägi C, Haitina T. (2022). The Role of Gdf5 in the Development of the Zebrafish Fin Endoskeleton. <a href="[https://example.com](https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/dvdy.399)"></
-                                                                                                                                                                                                                                                                                     i>Developmental Dynamics</i></a> 
+        Waldmann L*, <strong>Leyhr J</strong>*, Zhang H, Allalou A, Öhman-Mägi C, Haitina T. (2022). The Role of Gdf5 in the Development of the Zebrafish Fin Endoskeleton. <a href="[https://example.com](https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/dvdy.399)"><i>Developmental Dynamics</i></a> 
       </p>
     </div>
   </li>
