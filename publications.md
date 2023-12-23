@@ -19,7 +19,7 @@ zebrafish mutants. [*Frontiers in Endocrinology*](https://www.frontiersin.org/ar
 cis-regulatory element drives early expression of Nkx3.2 in the gnathostome primary jaw joint.
 [*eLife*](https://elifesciences.org/articles/75749)
 
-<img style="float:left" src="assets/img/DD Cover.jpg" /> Waldmann L\*, **Leyhr J**\*, Zhang H, Allalou A, Öhman-Mägi C, Haitina T. (2022). The Role of
+<img align="left" src="assets/img/DD Cover.jpg"> Waldmann L\*, **Leyhr J**\*, Zhang H, Allalou A, Öhman-Mägi C, Haitina T. (2022). The Role of
 Gdf5 in the Development of the Zebrafish Fin Endoskeleton. [*Developmental Dynamics*](https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/dvdy.399)
 
 **2021**
