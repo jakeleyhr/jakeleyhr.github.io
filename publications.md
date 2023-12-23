@@ -3,7 +3,6 @@ layout: page
 title: Publications
 ---
 
-
 <style>
 /* Your CSS styles here */
 body {
@@ -32,6 +31,8 @@ body {
   flex: 1;
 }
 </style>
+
+
 
 <ul class="image-list">
 <h3 style="text-align: center;">2023</h3>
@@ -74,11 +75,11 @@ body {
   
 <h3 style="text-align: center;">2021</h3>
     <li>
-    <img src="../assets/img/Waldmann2021.png" alt="Developmental Dynamics Cover" />
     <div class="text">
       <p>
         Waldmann L*, <strong>Leyhr J</strong>*, Zhang H, Öhman-Mägi C, Allalou A, Haitina T. (2021). The Broad Role of Nkx3.2 in the Development of the Zebrafish Axial Skeleton. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255953"><i>PLoS ONE</i></a> 
       </p>
+          <img src="../assets/img/Waldmann2021.png" alt="Developmental Dynamics Cover" />
     </div>
   </li>
   
