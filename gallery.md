@@ -7,10 +7,10 @@
 <img src="../assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 1">
 <p>Caption for X-ray Image 1</p>
     
-<img src="../assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 2">
+<img src="../assets/img/gallery/Catshark_teeth_denticle.png" alt="X-ray Image 2">
 <p>Caption for X-ray Image 2</p>
     
-<img src="../assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 3">
+<img src="../assets/img/gallery/Zebrafish_ceratohyal.png" alt="X-ray Image 3">
 <p>Caption for X-ray Image 3</p>
 </div>
 
@@ -19,10 +19,10 @@
 <img src="../assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 1">
 <p>Caption for X-ray Image 1</p>
     
-<img src="../assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 2">
+<img src="../assets/img/gallery/Catshark_teeth_denticle.png" alt="X-ray Image 2">
 <p>Caption for X-ray Image 2</p>
     
-<img src="../assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 3">
+<img src="../assets/img/gallery/Zebrafish_ceratohyal.png" alt="X-ray Image 3">
 <p>Caption for X-ray Image 3</p>
 </div>
 
@@ -31,24 +31,22 @@
 <img src="../assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 1">
 <p>Caption for X-ray Image 1</p>
     
-<img src="../assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 2">
+<img src="../assets/img/gallery/Catshark_teeth_denticle.png" alt="X-ray Image 2">
 <p>Caption for X-ray Image 2</p>
     
-<img src="../assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 3">
+<img src="../assets/img/gallery/Zebrafish_ceratohyal.png" alt="X-ray Image 3">
 <p>Caption for X-ray Image 3</p>
 </div>
 
 </div>
 
-
-<!-- Image containter where image will show in big size -->
+<!-- Image container where the image will show in a big size -->
 <div class="image-popup-container" id="imagePopup">
 <span class="close-button" onclick="closeImage()">×</span>
 <img src="" alt="Popup Image" id="popupImage">
 </div>
-<script src="script.js"></script>
 
-
+<script src="../script.js"></script>
 
 <style>
   /* Import google font */
@@ -61,7 +59,7 @@
     background-color: #f4f4f4;
   }
 
-  /* Styline the Heading of Image Gallery */
+  /* Styling the Heading of Image Gallery */
   .heading {
     display: flex;
     justify-content: center;
@@ -73,7 +71,7 @@
     -webkit-text-fill-color: transparent;
   }
 
-  /* Styling gallery section where all images are */
+  /* Styling the gallery section where all images are */
   .gallery-container {
     width: 90%;
     margin: 0 auto;
@@ -87,7 +85,7 @@
     align-items: center;
   }
 
-  /* Styling Particular Image */
+  /* Styling the Particular Image */
   .gallery img {
     width: 200px;
     height: 200px;
