@@ -3,63 +3,140 @@
 <div class="gallery">
   
   ## Figures
-  <div class="gallery-section">
-    <img src="assets/img/gallery/Zebrafish_ceratohyal.png" alt="Figure 1">
-    <p>Caption for Figure 1</p>
+  <img src="assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 1">
+  <p>Caption for X-ray Image 1</p>
     
-    <img src="path/to/figure2.jpg" alt="Figure 2">
-    <p>Caption for Figure 2</p>
+  <img src="assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 2">
+  <p>Caption for X-ray Image 2</p>
     
-    <img src="path/to/figure3.jpg" alt="Figure 3">
-    <p>Caption for Figure 3</p>
-  </div>
+  <img src="assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 3">
+  <p>Caption for X-ray Image 3</p>
   
+</div>
+<div class="gallery">  
   ## Fluorescence
-  <div class="gallery-section">
-    <img src="assets/img/gallery/Catshark_teeth_denticle.png" alt="Fluorescence Image 1">
-    <p>Caption for Fluorescence Image 1</p>
+  <img src="assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 1">
+  <p>Caption for X-ray Image 1</p>
     
-    <img src="path/to/fluorescence2.jpg" alt="Fluorescence Image 2">
-    <p>Caption for Fluorescence Image 2</p>
+  <img src="assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 2">
+  <p>Caption for X-ray Image 2</p>
     
-    <img src="path/to/fluorescence3.jpg" alt="Fluorescence Image 3">
-    <p>Caption for Fluorescence Image 3</p>
-  </div>
+  <img src="assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 3">
+  <p>Caption for X-ray Image 3</p>
+</div>
 
+<div class="gallery">
   ## X-ray
-  <div class="gallery-section">
-    <img src="assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 1">
-    <p>Caption for X-ray Image 1</p>
+
+  <img src="assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 1">
+  <p>Caption for X-ray Image 1</p>
     
-    <img src="path/to/xray2.jpg" alt="X-ray Image 2">
-    <p>Caption for X-ray Image 2</p>
+  <img src="assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 2">
+  <p>Caption for X-ray Image 2</p>
     
-    <img src="path/to/xray3.jpg" alt="X-ray Image 3">
-    <p>Caption for X-ray Image 3</p>
-  </div>
+  <img src="assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 3">
+  <p>Caption for X-ray Image 3</p>
 
 </div>
 
+/* Import google font */
+@import url(
+'https://fonts.googleapis.com/css2?family=Yaldevi:wght@200;300;400;500;
+600;700&display=swap');
 
-<style>
-  .gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-  }
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #f4f4f4;
+}
+/* Styline the Heading of Image Gallery */
+.heading{ 
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 30px;
+	background: #121FCF;
+	background: linear-gradient(to right, #0e85e0 0%, #26ff1a 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+/* Styling gallery section where all images are */
+.gallery {
+	width: 90%;
+	margin:0 auto;
+	display:grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	grid-gap: 20px;
+	justify-content:center;
+	align-items: center; 
+}
 
-  .gallery-section {
-    margin: 20px;
-    text-align: center;
-  }
+/* Styling Particular Image */
+.gallery-img {
+	width: 200px;
+	height: 200px;
+	cursor: pointer;
+	transition: transform 0.2s;
+}
+/* onHover image will expand little bit */
+.gallery-img:hover {
+	transform: scale(1.1);
+	cursor: zoom-in;
+}
+/* This section will be seen when we click on image */
+.image-popup-container {
+	display: none;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.8);
+}
 
-  .gallery-section img {
-    max-width: 100%;
-    height: auto;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-  }
+/* close button when we want to close the bigger image */
+.close-button {
+	position: absolute;
+	top: 20px;
+	right: 50px;
+	font-size:60px;
+	color: #fff;
+	cursor: pointer;
+}
+.close-button:hover{
+	color: red;
+}
+
+/* when we click on the image it will expand in bigger size and will displayed 
+at middle of screen */
+#popupImage {
+	display: block;
+	max-width: 80%;
+	max-height: 80%;
+	margin: 0 auto;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+/* Making images more responsive for smaller size device */
+@media (max-width:670px) {
+	.gallery{
+		grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+		grid-gap: 10px;
+	}
+	.gallery-img{
+		width:150px;
+		height: 150px;
+	}
+
+	.heading{
+		font-size: 20px;
+	}
+}
+
 
   .gallery-section p {
     font-style: italic;
