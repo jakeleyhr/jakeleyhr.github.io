@@ -3,8 +3,6 @@ layout: page
 title: Image Gallery
 ---
 
-# Gallery
-
 <div class="container mt-5">
   <div class="text-center mb-4">
     <button class="btn btn-primary filter" data-filter="all">All</button>
@@ -14,13 +12,13 @@ title: Image Gallery
   </div>
 
   <div class="gallery">
-    <div class="gallery-item CT">
+    <div class="gallery-item all CT">
       <img src="../assets/img/gallery/60dpf_vertebrae_xray.png" alt="CT 1">
     </div>
-    <div class="gallery-item Fluorescence">
+    <div class="gallery-item all Fluorescence">
       <img src="../assets/img/gallery/Catshark_teeth_denticle.png" alt="Fluorescence 1">
     </div>
-    <div class="gallery-item Figure">
+    <div class="gallery-item all Figure">
       <img src="../assets/img/gallery/Zebrafish_ceratohyal.png" alt="Figure 1">
     </div>
   </div>
