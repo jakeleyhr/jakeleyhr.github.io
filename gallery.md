@@ -1,160 +1,81 @@
-# Image Gallery
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Gallery</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
 
-<div class="gallery-container">
-
-## Figures
-<div class="gallery">
-<img src="../assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 1">
-<p>Caption for X-ray Image 1</p>
-    
-<img src="../assets/img/gallery/Catshark_teeth_denticle.png" alt="X-ray Image 2">
-<p>Caption for X-ray Image 2</p>
-    
-<img src="../assets/img/gallery/Zebrafish_ceratohyal.png" alt="X-ray Image 3">
-<p>Caption for X-ray Image 3</p>
-</div>
-
-## Fluorescence
-<div class="gallery">
-<img src="../assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 1">
-<p>Caption for X-ray Image 1</p>
-    
-<img src="../assets/img/gallery/Catshark_teeth_denticle.png" alt="X-ray Image 2">
-<p>Caption for X-ray Image 2</p>
-    
-<img src="../assets/img/gallery/Zebrafish_ceratohyal.png" alt="X-ray Image 3">
-<p>Caption for X-ray Image 3</p>
-</div>
-
-## X-ray
-<div class="gallery">
-<img src="../assets/img/gallery/60dpf_vertebrae_xray.png" alt="X-ray Image 1">
-<p>Caption for X-ray Image 1</p>
-    
-<img src="../assets/img/gallery/Catshark_teeth_denticle.png" alt="X-ray Image 2">
-<p>Caption for X-ray Image 2</p>
-    
-<img src="../assets/img/gallery/Zebrafish_ceratohyal.png" alt="X-ray Image 3">
-<p>Caption for X-ray Image 3</p>
-</div>
-
-</div>
-
-<!-- Image container where the image will show in a big size -->
-<div class="image-popup-container" id="imagePopup">
-<span class="close-button" onclick="closeImage()">×</span>
-<img src="" alt="Popup Image" id="popupImage">
-</div>
-
-<script src="../script.js"></script>
-
-<style>
-  /* Import google font */
-  @import url('https://fonts.googleapis.com/css2?family=Yaldevi:wght@200;300;400;500;600;700&display=swap');
-
-  body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-  }
-
-  /* Styling the Heading of Image Gallery */
-  .heading {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 30px;
-    background: #121FCF;
-    background: linear-gradient(to right, #0e85e0 0%, #26ff1a 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-
-  /* Styling the gallery section where all images are */
-  .gallery-container {
-    width: 90%;
-    margin: 0 auto;
-  }
-
-  .gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    grid-gap: 20px;
-    justify-content: center;
-    align-items: center;
-  }
-
-  /* Styling the Particular Image */
-  .gallery img {
-    width: 200px;
-    height: 200px;
-    cursor: pointer;
-    transition: transform 0.2s;
-  }
-
-  /* onHover image will expand a little bit */
-  .gallery img:hover {
-    transform: scale(1.1);
-    cursor: zoom-in;
-  }
-
-  /* This section will be seen when we click on the image */
-  .image-popup-container {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
-  }
-
-  /* close button when we want to close the bigger image */
-  .close-button {
-    position: absolute;
-    top: 20px;
-    right: 50px;
-    font-size: 60px;
-    color: #fff;
-    cursor: pointer;
-  }
-
-  .close-button:hover {
-    color: red;
-  }
-
-  /* when we click on the image it will expand in a bigger size and will be displayed at the middle of the screen */
-  #popupImage {
-    display: block;
-    max-width: 80%;
-    max-height: 80%;
-    margin: 0 auto;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-
-  /* Making images more responsive for smaller size devices */
-  @media (max-width: 670px) {
     .gallery {
-      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-      grid-gap: 10px;
+      display: flex;
+      flex-wrap: wrap;
     }
 
-    .gallery img {
-      width: 150px;
-      height: 150px;
+    .gallery-item {
+      width: calc(33.33% - 20px);
+      margin: 10px;
+      overflow: hidden;
     }
 
-    .heading {
-      font-size: 20px;
+    .gallery-item img {
+      width: 100%;
+      height: auto;
+      transition: transform 0.3s;
     }
-  }
 
-  .gallery p {
-    font-style: italic;
-    color: #555;
-  }
-</style>
+    .gallery-item:hover img {
+      transform: scale(1.1);
+    }
+  </style>
+</head>
+<body>
+
+<div class="container mt-5">
+  <div class="text-center mb-4">
+    <button class="btn btn-primary filter" data-filter="all">All</button>
+    <button class="btn btn-primary filter" data-filter="nature">Nature</button>
+    <button class="btn btn-primary filter" data-filter="technology">Technology</button>
+    <button class="btn btn-primary filter" data-filter="architecture">Architecture</button>
+  </div>
+
+  <div class="gallery">
+    <div class="gallery-item nature">
+      <img src="../assets/img/gallery/60dpf_vertebrae_xray.png" alt="Nature 1">
+    </div>
+    <div class="gallery-item technology">
+      <img src="../assets/img/gallery/Catshark_teeth_denticle.png" alt="Technology 1">
+    </div>
+    <div class="gallery-item architecture">
+      <img src="../assets/img/gallery/Zebrafish_ceratohyal.png" alt="Architecture 1">
+    </div>
+  </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+  $(document).ready(function () {
+    // Initialize Isotope
+    $('.gallery').isotope();
+
+    // Filter items on button click
+    $('.filter').click(function () {
+      var filterValue = $(this).attr('data-filter');
+      $('.gallery').isotope({ filter: filterValue });
+    });
+
+    // Add active class to the current button (highlight it)
+    $('.filter').on('click', function () {
+      $('.filter').removeClass('active');
+      $(this).addClass('active');
+    });
+  });
+</script>
+
+</body>
+</html>
