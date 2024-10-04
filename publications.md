@@ -41,7 +41,7 @@ body {
     <img src="../assets/img/tardigrade.jpg" alt="Stained Tardigrade" />
     <div class="text">
       <p>
-        4.	Harry, CJ., Hibshman, JD., Damatac, A., Davidson, PL., Estermann, MA., Flores-Flores, M., Holmes, CM., Lázaro, J., Legere, EA., <strong>Leyhr, J</strong>., Thendral, SB., Vincent, BA., Goldstein, B. (2024) Protocol for fluorescent live-cell staining of tardigrades. <a href="https://star-protocols.cell.com/protocols/3655"><i>STAR Protocols</i></a>  
+        Harry, CJ., Hibshman, JD., Damatac, A., Davidson, PL., Estermann, MA., Flores-Flores, M., Holmes, CM., Lázaro, J., Legere, EA., <strong>Leyhr, J</strong>., Thendral, SB., Vincent, BA., Goldstein, B. (2024) Protocol for fluorescent live-cell staining of tardigrades. <a href="https://star-protocols.cell.com/protocols/3655"><i>STAR Protocols</i></a>  
       </p>
     </div>
   </li>
@@ -49,7 +49,7 @@ body {
     <img src="../assets/img/Catsharksensory.png" alt="Catshark Sensory Organs" />
     <div class="text">
       <p>
-        5.	Mayeur, H., <strong>Leyhr, J</strong>., Mulley, J., Leurs, N., Michel, L., Sharma, K., Lagadec, R., Aury, JM., Osborne, O.G., Mulhair, P., Poulain, J., Mangenot, S., Mead, D., Smith, M., Corton, C., Oliver, K., Skelton, J., Betteridge, E., Dolucan, J., Dudchenko, O., Omer, AD., Weisz, D., Lieberman-Aiden, E., McCarthy, S., Sims, Y., Torrance, J., Tracey, A., Howe, K., Baril, T, Hayward, A, Martinand-Mari, C., Sanchez, S., Haitina, T., Martin, K, Korsching, SI., Mazan, S., Debiais-Thibaud, M. (2024) The sensory shark: high-quality morphological, genomic and transcriptomic data for the small-spotted catshark Scyliorhinus canicula reveal the molecular bases of sensory organ evolution in jawed vertebrates. <a href="https://www.biorxiv.org/content/10.1101/2024.05.23.595469v2"><i>bioRxiv</i></a> 
+        Mayeur, H., <strong>Leyhr, J</strong>., Mulley, J., Leurs, N., Michel, L., Sharma, K., Lagadec, R., Aury, JM., Osborne, O.G., Mulhair, P., Poulain, J., Mangenot, S., Mead, D., Smith, M., Corton, C., Oliver, K., Skelton, J., Betteridge, E., Dolucan, J., Dudchenko, O., Omer, AD., Weisz, D., Lieberman-Aiden, E., McCarthy, S., Sims, Y., Torrance, J., Tracey, A., Howe, K., Baril, T, Hayward, A, Martinand-Mari, C., Sanchez, S., Haitina, T., Martin, K, Korsching, SI., Mazan, S., Debiais-Thibaud, M. (2024) The sensory shark: high-quality morphological, genomic and transcriptomic data for the small-spotted catshark Scyliorhinus canicula reveal the molecular bases of sensory organ evolution in jawed vertebrates. <a href="https://www.biorxiv.org/content/10.1101/2024.05.23.595469v2"><i>bioRxiv</i></a> 
       </p>
     </div>
   </li>
