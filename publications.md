@@ -108,7 +108,7 @@ body {
     <img src="../assets/img/Janssen2018.jpg" alt="SoxN in situs" />
     <div class="text">
       <p>
-        Janssen R, Andersson E, Betnér E, Bijl S, Fowler W, Höök L, <strong>Leyhr J</strong>, Landström E, Mannelqvist A, Panara V, Smith K, Tiemann S. (2018). Embryonic expression patterns and phylogenetic analysis of panarthropod sox genes: Insight into nervous system development,segmentation and gonadogenesis. <a href="https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-018-1196-z"><i>BMC Evolutionary Biology</i></a> 
+        Janssen R, Andersson E, Betnér E, Bijl S, Fowler W, Höök L, <strong>Leyhr J</strong>, Landström E, Mannelqvist A, Panara V, Smith K, Tiemann S. (2018). Embryonic expression patterns and phylogenetic analysis of panarthropod sox genes: Insight into nervous system development, segmentation and gonadogenesis. <a href="https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-018-1196-z"><i>BMC Evolutionary Biology</i></a> 
       </p>
     </div>
   </li>
