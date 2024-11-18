@@ -37,6 +37,14 @@ body {
 
 <ul class="image-list">
 <h3 style="text-align: center;">2024</h3>
+  <li>
+    <img src="../assets/img/Weberian GA.png" alt="Weberian Graphic Abstract" />
+    <div class="text">
+      <p>
+        <strong>Leyhr J</strong>, Haitina T, Bird NC. (2024) Hidden in plain sight: does the first intercostal ligament help to stabilize the Weberian apparatus? <a href="https://www.biorxiv.org/content/10.1101/2023.11.20.567829v1](https://onlinelibrary.wiley.com/doi/10.1111/joa.14168"><i>Journal of Anatomy</i></a> 
+      </p>
+    </div>
+  </li>
     <li>
     <img src="../assets/img/tardigrade.jpg" alt="Stained Tardigrade" />
     <div class="text">
@@ -55,14 +63,6 @@ body {
   </li>
   
 <h3 style="text-align: center;">2023</h3>
-      <li>
-    <div class="text">
-      <p>
-        <strong>Leyhr J</strong>, Haitina T, Bird NC. (preprint) Hidden in plain sight: does the first intercostal ligament help to stabilize the Weberian apparatus? <a href="https://www.biorxiv.org/content/10.1101/2023.11.20.567829v1"><i>bioRxiv</i></a> 
-      </p>
-    </div>
-   <img src="../assets/img/Weberian GA.png" alt="Weberian Graphic Abstract" />
-  </li>
     <li>
     <div class="text">
       <p>
