@@ -36,6 +36,35 @@ body {
 
 
 <ul class="image-list">
+  <h3 style="text-align: center;">2025</h3>
+  <li>
+    <img src="../assets/img/lampreytoothlets.png" alt="Lamprey toothlets" />
+    <div class="text">
+      <p>
+        Grohganz, M., <strong>Leyhr, J</strong>., Johanson, Z., Haitina, T., Sanchez, S., Dollman, K., Stundl, J., Bronner, ME., Fraser, GJ., Donoghue, PCJ. (2025) Investigating the Morphogenesis and Replacement of Lamprey Toothlets Using Synchrotron Imaging.
+ <a href="https://onlinelibrary.wiley.com/doi/10.1002/jmor.70094"><i>Journal of Morphology</i></a> 
+      </p>
+    </div>
+  </li>
+  <li>
+    <img src="../assets/img/lampreyendostyle.png" alt="Lamprey endostyle" />
+    <div class="text">
+      <p>
+        Stundl, J., Rajan, ARD., Urrutia, HA., <strong>Leyhr, J</strong>., Stundlova, J., Solovieva, T., Haitina, T., Sanchez, S., Musilova, Z., Martik, ML., Bronner, ME. (2025) Acquisition of neural crest promoted thyroid evolution from chordate endostyle.
+ <a href="https://www.science.org/doi/10.1126/sciadv.adv2657"><i>Science Advances</i></a> 
+      </p>
+    </div>
+  </li>
+  <li>
+    <img src="../assets/img/NK3synteny.png" alt="Synteny analysis of NK3 family genes" />
+    <div class="text">
+      <p>
+        Ford, C., De Sena-Tomás, C., Wun, T.T.R., Aleman, A.G., Rangaswamy, U., <strong>Leyhr, J</strong>., Nuñez, M.I., Gao, C.Z., Nim, H.T., See, M., Coppola, U., Waxman, J.S., Ramialison, M., Haitina, T., Smeeton, J., Sanges, R., Targoff, K.L. (2025) Nkx2.7 is a conserved regulator of craniofacial development.
+ <a href="https://www.nature.com/articles/s41467-025-58821-3"><i>Nature Communications</i></a> 
+      </p>
+    </div>
+  </li>
+  
 <h3 style="text-align: center;">2024</h3>
   <li>
     <img src="../assets/img/Catsharksensory.png" alt="Catshark Sensory Organs" />
