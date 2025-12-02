@@ -40,7 +40,7 @@ body {
   <li>
     <div class="text">
       <p>
-        Grohganz M, <strong>Leyhr J</strong>, Johanson Z, Haitina T, Sanchez S, Dollman K, Stundl J, Bronner ME, Fraser GJ, Donoghue PCJ. (2025) Investigating the Morphogenesis and Replacement of Lamprey Toothlets Using Synchrotron Imaging.
+        Grohganz M, <strong>Leyhr J</strong>, Johanson Z, Haitina T, Sanchez S, Dollman K, Stundl J, Bronner ME, Fraser GJ, Donoghue PCJ. (2025). Investigating the Morphogenesis and Replacement of Lamprey Toothlets Using Synchrotron Imaging.
  <a href="https://onlinelibrary.wiley.com/doi/10.1002/jmor.70094"><i>Journal of Morphology</i></a> 
       </p>
     </div>
@@ -49,7 +49,7 @@ body {
   <li>
     <div class="text">
       <p>
-        Stundl J, Rajan ARD, Urrutia HA, <strong>Leyhr J</strong>, Stundlova J, Solovieva T, Haitina T, Sanchez S, Musilova Z, Martik ML, Bronner ME. (2025) Acquisition of neural crest promoted thyroid evolution from chordate endostyle.
+        Stundl J, Rajan ARD, Urrutia HA, <strong>Leyhr J</strong>, Stundlova J, Solovieva T, Haitina T, Sanchez S, Musilova Z, Martik ML, Bronner ME. (2025). Acquisition of neural crest promoted thyroid evolution from chordate endostyle.
  <a href="https://www.science.org/doi/10.1126/sciadv.adv2657"><i>Science Advances</i></a> 
       </p>
     </div>
@@ -58,7 +58,7 @@ body {
   <li>
     <div class="text">
       <p>
-        Ford C, De Sena-Tomás C, Wun TTR, Aleman AG, Rangaswamy U, <strong>Leyhr J</strong>, Nuñez MI, Gao CZ, Nim HT, See M, Coppola U, Waxman JS, Ramialison M, Haitina T, Smeeton J, Sanges R, Targoff KL. (2025) Nkx2.7 is a conserved regulator of craniofacial development.
+        Ford C, De Sena-Tomás C, Wun TTR, Aleman AG, Rangaswamy U, <strong>Leyhr J</strong>, Nuñez MI, Gao CZ, Nim HT, See M, Coppola U, Waxman JS, Ramialison M, Haitina T, Smeeton J, Sanges R, Targoff KL. (2025). Nkx2.7 is a conserved regulator of craniofacial development.
  <a href="https://www.nature.com/articles/s41467-025-58821-3"><i>Nature Communications</i></a> 
       </p>
     </div>
@@ -70,7 +70,7 @@ body {
     <img src="../assets/img/Catsharksensory.png" alt="Catshark Sensory Organs" />
     <div class="text">
       <p>
-        Mayeur H, <strong>Leyhr J</strong>, Mulley J, Leurs N, Michel L, Sharma K, Lagadec R, Aury JM, Osborne OG, Mulhair P, Poulain J, Mangenot S, Mead D, Smith M, Corton C, Oliver K, Skelton J, Betteridge E, Dolucan J, Dudchenko O, Omer AD, Weisz D, Lieberman-Aiden E, McCarthy S, Sims Y, Torrance J, Tracey A, Howe K, Baril T, Hayward A, Martinand-Mari C, Sanchez S, Haitina T, Martin K, Korsching SI, Mazan S, Debiais-Thibaud M. (2024) The sensory shark: high-quality morphological, genomic and transcriptomic data for the small-spotted catshark Scyliorhinus canicula reveal the molecular bases of sensory organ evolution in jawed vertebrates. <a href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msae246/7917656"><i>Molecular Biology and Evolution</i></a> 
+        Mayeur H, <strong>Leyhr J</strong>, Mulley J, Leurs N, Michel L, Sharma K, Lagadec R, Aury JM, Osborne OG, Mulhair P, Poulain J, Mangenot S, Mead D, Smith M, Corton C, Oliver K, Skelton J, Betteridge E, Dolucan J, Dudchenko O, Omer AD, Weisz D, Lieberman-Aiden E, McCarthy S, Sims Y, Torrance J, Tracey A, Howe K, Baril T, Hayward A, Martinand-Mari C, Sanchez S, Haitina T, Martin K, Korsching SI, Mazan S, Debiais-Thibaud M. (2024). The sensory shark: high-quality morphological, genomic and transcriptomic data for the small-spotted catshark Scyliorhinus canicula reveal the molecular bases of sensory organ evolution in jawed vertebrates. <a href="https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msae246/7917656"><i>Molecular Biology and Evolution</i></a> 
       </p>
     </div>
   </li>
@@ -78,7 +78,7 @@ body {
     <img src="../assets/img/Weberian GA.png" alt="Weberian Graphic Abstract" />
     <div class="text">
       <p>
-        <strong>Leyhr J</strong>, Haitina T, Bird NC. (2024) Hidden in plain sight: does the first intercostal ligament help to stabilize the Weberian apparatus? <a href="https://onlinelibrary.wiley.com/doi/10.1111/joa.14168"><i>Journal of Anatomy</i></a> 
+        <strong>Leyhr J</strong>, Haitina T, Bird NC. (2024). Hidden in plain sight: does the first intercostal ligament help to stabilize the Weberian apparatus? <a href="https://onlinelibrary.wiley.com/doi/10.1111/joa.14168"><i>Journal of Anatomy</i></a> 
       </p>
     </div>
   </li>
@@ -86,7 +86,7 @@ body {
     <img src="../assets/img/tardigrade.jpg" alt="Stained Tardigrade" />
     <div class="text">
       <p>
-        Harry CJ, Hibshman JD, Damatac A, Davidson PL, Estermann MA, Flores-Flores M, Holmes CM, Lázaro J, Legere EA, <strong>Leyhr J</strong>, Thendral SB, Vincent BA, Goldstein B. (2024) Protocol for fluorescent live-cell staining of tardigrades. <a href="https://star-protocols.cell.com/protocols/3655"><i>STAR Protocols</i></a>  
+        Harry CJ, Hibshman JD, Damatac A, Davidson PL, Estermann MA, Flores-Flores M, Holmes CM, Lázaro J, Legere EA, <strong>Leyhr J</strong>, Thendral SB, Vincent BA, Goldstein B. (2024). Protocol for fluorescent live-cell staining of tardigrades. <a href="https://star-protocols.cell.com/protocols/3655"><i>STAR Protocols</i></a>  
       </p>
     </div>
   </li>
