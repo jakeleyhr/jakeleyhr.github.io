@@ -38,7 +38,7 @@ body {
 <ul class="image-list">
   <h3 style="text-align: center;">2026</h3>
   <li>
-     <img src="../assets/img/LeyhrwormtagDB2025.png" alt="WormTagDB" />
+     <img src="../assets/img/LeyhrwormtagDB2026.png" alt="WormTagDB" />
     <div class="text">
       <p>
         <strong>Leyhr J</strong>, Chi Q, Zeng L, Li X, Cao B, Shen EZ, Zou W, Sherwood DR. (2026). WormTagDB: A Systematic Survey of Endogenously Tagged Proteins in C. elegans and Roadmap Towards the Tagged Proteome.
