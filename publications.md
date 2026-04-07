@@ -36,6 +36,26 @@ body {
 
 
 <ul class="image-list">
+  <h3 style="text-align: center;">2026</h3>
+  <li>
+     <img src="../assets/img/LeyhrwormtagDB2025.png" alt="WormTagDB" />
+    <div class="text">
+      <p>
+        <strong>Leyhr J</strong>, Chi Q, Zeng L, Li X, Cao B, Shen EZ, Zou W, Sherwood DR. (2026). WormTagDB: A Systematic Survey of Endogenously Tagged Proteins in C. elegans and Roadmap Towards the Tagged Proteome.
+ <a href="https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkag068/8539546"><i>G3 Genes|Genomes|Genetics</i></a> 
+      </p>
+    </div>
+  </li>
+  <li>
+     <img src="../assets/img/Kenny-Ganzert2026.jpg" alt="Specialized Mitochondria in the AC" />
+    <div class="text">
+      <p>
+        Kenny-Ganzert IW*, Basta LP*, Wang L, Chi Q, Kelley LC, Su CY, <strong>Leyhr J</strong>, Morton KS, Meyer JN, and Sherwood DR. (2026). Specialized high-capacity mitochondria fuel cell invasion.
+ <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(26)00310-6"><i>Current Biology</i></a> 
+      </p>
+    </div>
+  </li>
+  <li>
   <h3 style="text-align: center;">2025</h3>
   <li>
     <div class="text">
