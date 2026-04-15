@@ -55,7 +55,7 @@ body {
       </p>
     </div>
   </li>
-  <li>
+  
   <h3 style="text-align: center;">2025</h3>
   <li>
     <div class="text">
