@@ -18,22 +18,22 @@ export interface AboutMe {
 }
 
 export const aboutMe: AboutMe = {
-  name: "Jane R. Smith",
-  title: "Ph.D. Candidate",
-  institution: "Stanford University",
+  name: "Jake Leyhr",
+  title: "Postdoctoral Associate",
+  institution: "Duke University",
   // Note that links work in the description
   description:
-    "I'm a final-year <a href='https://www.stanford.edu'>PhD candidate</a> working at the intersection of causal inference and machine learning. My research focuses on developing robust, interpretable systems that can reason about cause and effect in complex environments.",
-  email: "______@stanford.edu",
+    "I am a Postdoctoral Associate in developmental biology at Duke University (NC, USA) studying cell invasion in nematode worms. Before that, I completed my PhD at Uppsala University (Sweden), where I examined the role and regulation of key genes patterning the cartilage, bone, and connective tissues of zebrafish.",
+  email: "firstname.lastname@duke.edu",
   imageUrl:
     "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  googleScholarUrl: "https://scholar.google.com/citations?user=bWtMl_MAAAAJ",
-  githubUsername: "janesmith",
-  linkedinUsername: "janesmith",
-  twitterUsername: "janesmith",
-  blogUrl: "https://",
-  cvUrl: "https://",
-  institutionUrl: "https://www.stanford.edu",
+  googleScholarUrl: "https://scholar.google.com/citations?user=gzb9BW4AAAAJ&hl=en",
+  githubUsername: "jakeleyhr",
+  linkedinUsername: "jake-leyhr-39116a81",
+  twitterUsername: "",
+  blogUrl: "",
+  cvUrl: "",
+  institutionUrl: "https://www.duke.edu",
   // altName: "",
   // secretDescription: "I like dogs.",
 };
