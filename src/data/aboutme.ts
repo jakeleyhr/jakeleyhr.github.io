@@ -23,7 +23,7 @@ export const aboutMe: AboutMe = {
   institution: "Duke University",
   // Note that links work in the description
   description:
-    "I am a Postdoctoral Associate in developmental biology at Duke University (NC, USA) studying cell invasion in nematode worms. Before that, I completed my PhD at Uppsala University (Sweden), where I examined the role and regulation of key genes patterning the cartilage, bone, and connective tissues of zebrafish.",
+    "I am a Postdoctoral Associate in the <a href='https://sites.duke.edu/sherwoodlab/'>Sherwood Lab</a> at Duke University (NC, USA) studying cell invasion in nematode worms. Before that, I completed my PhD at Uppsala University (Sweden), where I examined the role and regulation of key genes patterning the cartilage, bone, and connective tissues of zebrafish.",
   email: "firstname.lastname@duke.edu",
   imageUrl:
     "/images/Jake.jpg",
