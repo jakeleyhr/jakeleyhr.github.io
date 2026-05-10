@@ -26,7 +26,7 @@ export const aboutMe: AboutMe = {
     "I am a Postdoctoral Associate in developmental biology at Duke University (NC, USA) studying cell invasion in nematode worms. Before that, I completed my PhD at Uppsala University (Sweden), where I examined the role and regulation of key genes patterning the cartilage, bone, and connective tissues of zebrafish.",
   email: "firstname.lastname@duke.edu",
   imageUrl:
-    "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "/images/Jake.jpg",
   googleScholarUrl: "https://scholar.google.com/citations?user=gzb9BW4AAAAJ&hl=en",
   githubUsername: "jakeleyhr",
   linkedinUsername: "jake-leyhr-39116a81",
