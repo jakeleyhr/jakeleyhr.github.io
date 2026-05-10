@@ -65,7 +65,7 @@ export const publicationData: Publication[] = [
     conference: "Journal of Anatomy",
     title: "Hidden in plain sight: does the first intercostal ligament help to stabilize the Weberian apparatus?",
     authors: "<b>Leyhr J</b>, Haitina T, Bird NC",
-    paperUrl: "https://doi.org/10.1093/molbev/msae246",
+    paperUrl: "https://doi.org/10.1111/joa.14168",
     imageUrl: "/images/Weberian GA.png",
   },
   {
@@ -73,7 +73,7 @@ export const publicationData: Publication[] = [
     conference: "Molecular Biology and Evolution",
     title: "The sensory shark: high-quality morphological, genomic and transcriptomic data for the small-spotted catshark Scyliorhinus canicula reveal the molecular bases of sensory organ evolution in jawed vertebrates",
     authors: "Mayeur H, <b>Leyhr J</b>, Mulley J, Leurs N, Michel L, Sharma K, Lagadec R, Aury JM, Osborne OG, Mulhair P, Poulain J, Mangenot S, Mead D, Smith M, Corton C, Oliver K, Skelton J, Betteridge E, Dolucan J, Dudchenko O, Omer AD, Weisz D, Lieberman-Aiden E, McCarthy S, Sims Y, Torrance J, Tracey A, Howe K, Baril T, Hayward A, Martinand-Mari C, Sanchez S, Haitina T, Martin K, Korsching SI, Mazan S, Debiais-Thibaud M",
-    paperUrl: "https://doi.org/10.1101/2024.05.23.595469",
+    paperUrl: "https://doi.org/10.1093/molbev/msae246",
     imageUrl: "/images/Catsharksensory.png",
   },
   {
