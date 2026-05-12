@@ -29,10 +29,8 @@ export const metadata: Metadata = {
   title: customMetadata.title || aboutMe.name,
   description: customMetadata.description || aboutMe.description,
   icons: {
-  icon: [
-    { url: "/favicon.ico", sizes: "any" },
-  ],
-},
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
@@ -42,9 +40,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} ${notoSerif.variable} ${ptSerif.variable} antialiased`}
       >
