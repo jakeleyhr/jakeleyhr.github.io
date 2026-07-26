@@ -18,7 +18,7 @@ export const publicationData: Publication[] = [
     title: "Ossification of the pectoral fin of Glyptolepis groenlandica: implications for the evolution of the lungfish appendicular skeleton",
     authors: "Branigan MK, Bijl S, Ahlberg PE, Tafforeau P, Mansuit R, <b>Leyhr J</b>, Clement AM, Stundl J, Dutel H, Hirasawa T, Haitina T, Sanchez S",
     paperUrl: "https://doi.org/10.1186/s13227-026-00264-y",
-    imageUrl: "",
+    imageUrl: "/images/Branigan2026.png",
   },
   {
     year: "2026",
