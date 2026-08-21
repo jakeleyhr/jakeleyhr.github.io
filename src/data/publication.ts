@@ -42,7 +42,8 @@ export const publicationData: Publication[] = [
     title: "Investigating the Morphogenesis and Replacement of Lamprey Toothlets Using Synchrotron Imaging",
     authors: "Grohganz M, <b>Leyhr J</b>, Johanson Z, Haitina T, Sanchez S, Dollman K, Stundl J, Bronner ME, Fraser GJ, Donoghue PCJ",
     paperUrl: "https://doi.org/10.1002/jmor.70094",
-    imageUrl: "/images/lampreytoothlets.png",
+    imageUrl: "/images/Lampreycover.png",
+    award: "Cover feature",
   },
   {
     year: "2025",
