@@ -14,6 +14,14 @@ export interface Publication {
 export const publicationData: Publication[] = [
   {
     year: "2026",
+    conference: "BioRxiv",
+    title: "Reconstruc*on of the Prox gene family evolu*on in vertebrates reveals mul*ple lineage-specific gene losses",
+    authors: "Panara V, <b>Leyhr J</b>, Koltowska K, Haitina T",
+    paperUrl: "https://doi.org/10.64898/2026.09.25.754218",
+    imageUrl: "/images/Panara2026.png",
+  },
+  {
+    year: "2026",
     conference: "Developmental Biology Advances",
     title: "Ossification of the pectoral fin of Glyptolepis groenlandica: implications for the evolution of the lungfish appendicular skeleton",
     authors: "Branigan MK, Bijl S, Ahlberg PE, Tafforeau P, Mansuit R, <b>Leyhr J</b>, Clement AM, Stundl J, Dutel H, Hirasawa T, Haitina T, Sanchez S",
