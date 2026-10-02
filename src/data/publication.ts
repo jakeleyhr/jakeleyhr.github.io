@@ -15,7 +15,7 @@ export const publicationData: Publication[] = [
   {
     year: "2026",
     conference: "BioRxiv",
-    title: "Reconstruc*on of the Prox gene family evolu*on in vertebrates reveals mul*ple lineage-specific gene losses",
+    title: "Reconstruction of the Prox gene family evolution in vertebrates reveals multiple lineage-specific gene losses",
     authors: "Panara V, <b>Leyhr J</b>, Koltowska K, Haitina T",
     paperUrl: "https://doi.org/10.64898/2026.09.25.754218",
     imageUrl: "/images/Panara2026.png",
